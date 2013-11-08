@@ -13,7 +13,7 @@ import org.mmi.android.instrumentation.ContextDescription.SocialContext.SocialCo
 import org.mmi.android.instrumentation.ContextDescription.User.EducationLevel;
 import org.mmi.android.instrumentation.ContextDescription.User.Gender;
 import org.mmi.android.instrumentation.ContextDescription.User.PreviousExperience;
-import org.mmi.android.instrumentation.filters.*; 
+import org.mmi.android.instrumentation.filters.*;
 import org.mmi.android.instrumentation.ContextDescription;
 
 import android.location.Location;
