@@ -1,0 +1,33 @@
+{
+	//
+	// interaction filters
+	//
+	
+	"appTiming" : "true",
+	"navigationInput" : "true" ,
+	"keyInput" : "true" ,
+	"viewChanges" : "true" ,
+	"speechInput" : "false" ,
+	
+	//
+	// context filters
+	//
+	
+	"physicalEnvironment" : "true" ,
+	"locationTime" : "true" ,
+	"user" : "true" ,
+	"socialContext" : "true" ,
+	"device" : "true" ,
+	"communication" : "true" ,
+	
+	//
+	// update times configuration (ms)
+	//
+	
+	"updateTimeCoarse" : 20000,
+	"updateTimeFine" : 10000,
+	"updateTimeFinest" : 5000,
+	
+	//
+	"end": ""
+}
