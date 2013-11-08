@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="android.instrumentation/org.mmi.android.instrumentation_1.0.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/android.instrumentation/android.instrumentation.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.config{JSONConfiguration.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.filters.interaction{ViewProcessor.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.filters.context{ContextUserFilter.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.filters.interaction{NavigationInputFilter.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.filters.interaction{SpeechInputFilter.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.sentinel.listeners{OnAttachedToWindowListener.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.filters"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.sentinel.listeners{OnWindowFocusChangedListener.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.filters.interaction{NewChildFilter.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.utils{NetworkUtils.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.filters.context{ContextCommunicationFilter.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.filters.context{ContextSocialFilter.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.optionsmenu.listeners{OnOptionsMenuPreparedListener.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.utils{ConnectionUtils.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.filters.interaction{ViewChangesFilter.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.filters.interaction{KeyInputFilter.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.utils{LocationUtils.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.optionsmenu"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.utils{StringUtils.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.filters.context{ContextDeviceFilter.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.filters.context{ContextPhysicalFilter.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.filters.interaction{MotionInputFilter.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.utils{DeviceUtils.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.objectproxies"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.filters.interaction{AppTimingFilter.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.sentinel"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.utils{UiTraverser.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.config{InteractionInstrumentationConfiguration.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.sentinel.listeners{OnWindowVisibilityChangedListener.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.viewproxies.listeners"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.viewproxies"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.config{InstrumentationConfig.java"/>
+        <javaElement handleIdentifier="=android.instrumentation/src&lt;org.mmi.android.instrumentation.filters.context{ContextLocationTimeFilter.java"/>
+    </selectedElements>
+</jardesc>
